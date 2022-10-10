@@ -1,0 +1,20 @@
+{
+  "name": "gettingtoknowvuejs",
+  "version": "1.0.0",
+  "description": "---\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidGugea/Getting-to-Know-Vue.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidGugea/Getting-to-Know-Vue.js/issues"
+  },
+  "homepage": "https://github.com/DavidGugea/Getting-to-Know-Vue.js#readme"
+}
